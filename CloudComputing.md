@@ -2,7 +2,7 @@
 
 ## Cloud Computing Basics
 
-#### Vertiacal vs Horizontal Scaling
+#### Vertical vs Horizontal Scaling
 
 #### Vertical Scaling
 
@@ -106,6 +106,6 @@ Everything else including the operating system is part of the users responsibili
 #### Other service models
 
 - CaaS : Container as a Service
-- SaaS : Storage as a Service
+- StaaS : Storage as a Service
 - DaaS : Data as a Service
 - Gaas : Cloud gaming
